@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=spring&logoColor='#6DB33F'">&nbsp 
 <img src="https://img.shields.io/badge/Spring Security-F0F0F0?style=flat-square&logo=springsecurity&logoColor='#6DB33F'">&nbsp 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodol4748&show_icons=true&theme=radical) -->
 <!--
 **bodol4748/bodol4748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
