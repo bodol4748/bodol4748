@@ -1,9 +1,40 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">&nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=spring&logoColor='#6DB33F'">&nbsp 
-<img src="https://img.shields.io/badge/Spring Security-F0F0F0?style=flat-square&logo=springsecurity&logoColor='#6DB33F'">&nbsp 
+
+ <h1 align="center">🧑‍💻 Jiwon Park | Backend & Fullstack Dev</h1>
+
+
+<div align="center" > 
+ 
+### 🧰 Tech Toolbox
+ 
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=spring&logoColor='#6DB33F'">
+<img src="https://img.shields.io/badge/Spring Security-F0F0F0?style=flat-square&logo=springsecurity&logoColor='#6DB33F'"><br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+
+**DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</div>
+
+<br>
+<br>
+
+<h2> 🧠 This Week's Dev Grind </h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2056%20mins-blue)
